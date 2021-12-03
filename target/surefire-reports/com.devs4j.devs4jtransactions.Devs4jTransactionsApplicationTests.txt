@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devs4j.devs4jtransactions.Devs4jTransactionsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.975 s - in com.devs4j.devs4jtransactions.Devs4jTransactionsApplicationTests

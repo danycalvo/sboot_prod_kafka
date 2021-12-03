@@ -1,0 +1,3 @@
+com\devs4j\devs4jtransactions\ProdDevs4jTransactionsApplication.class
+com\devs4j\devs4jtransactions\models\Devs4jTransaction.class
+com\devs4j\devs4jtransactions\configs\KafkaConfiguration.class
